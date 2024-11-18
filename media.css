@@ -1,0 +1,79 @@
+@media only screen and (min-width:200px) and (max-width:991.5px){
+    .btn-outer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        left: 0px;
+        justify-content: center !important;
+        background-color: #FFFFFF;
+        padding: 5px 0px;
+        z-index: 1;
+        
+    }
+    .hero-section{
+        padding: 20px 0 10px 0;
+        width: 100%;
+        row-gap: 20px;
+    }
+    .head-list-item li{
+        font-size: 18px;
+    }
+   
+    .hero-section-right .form{
+        padding: 5px 20px !important;
+    }
+    .hero-section-right .form p
+    {
+        font-size: 13px !important;
+    }
+    .key-course-heading>h2{
+        font-size: 20px !important;
+        
+    }
+    .key-course-heading>p{
+        font-size: 12px;
+    }
+   
+    .key-course-item h4{
+        font-size: 16px !important;
+    }
+   
+    .get-certified-item{
+        gap: 10px;
+    }
+    .get-certified-item .img i{
+        font-size: 30px !important;
+        
+    }
+    .get-certified-item-text h6{
+        font-size: 16px;
+    }
+    .get-certified-item-text p{
+        font-size: 8px;
+        margin-bottom: 0;
+    }
+    .get-certified-btn{
+        padding:8px 20px;
+    }
+    .courriculum-Digital-btn .btn{
+        padding:8px 20px;
+    }
+
+    .fot-img .img{
+    width: 30%;
+    }
+
+    .footer-text>h6{
+        font-size: 14px !important;
+    }
+    .footer-text>p{
+        font-size: 12px !important;
+    }
+
+
+}
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}

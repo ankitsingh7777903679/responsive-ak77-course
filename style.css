@@ -1,0 +1,86 @@
+
+*{
+    font-family: "Roboto Slab", serif;
+   
+}
+.whatsappbtn{
+    padding: 10px 10px;
+}
+.call{
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+    padding: 10px 10px;
+}
+.btn i{
+    margin-right: 10px;
+}
+.hero-section{
+    padding: 64px;
+    width: 100%;
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.hero-section span{
+    color: #0ACEFE;
+}
+.hero-section p{
+    font-size: 16px;
+}
+.hero-section li{
+    list-style: none;
+    font-size: 20px;
+   
+}
+.hero-section i{
+    padding-right:10px;
+    color: #0ACEFE;
+}
+/* hero-section-right */
+.input-group-text{
+    background-color:#0ACEFE;
+}
+.form-btn{
+    width: 100%;
+}
+.form-btn .btn{
+    padding: 8px 0px;
+    font-size: 20px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+}
+
+.student-study-programe h2{
+    color: #0ACEFE;
+}
+
+.key-course-btn,.get-certified-btn{
+    padding: 15px 20px;
+    font-size: 18px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+    
+}
+.courriculum-Digital-tabs .nav-link{
+    color: black;
+    border: none;
+
+}
+.courriculum-Digital-tabs .nav-link:hover{
+    border-bottom:3px solid #0ACEFE;
+}
+.tab-content{
+    list-style: none;
+
+}
+.tab-content li i{
+    margin-right: 10px;
+}
+.courriculum-Digital-btn .btn{
+    padding: 15px 20px;
+    font-size: 18px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    color: white;
+}
+
